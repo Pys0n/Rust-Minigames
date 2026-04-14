@@ -2,5 +2,6 @@
 
 Simple Minigames developed in Rust.
 
-There is currently one minigame:
+There are currently two minigames:
 - TicTacToe (`tictactoe/`)
+- Four in a Row (`fourinarow/`)
